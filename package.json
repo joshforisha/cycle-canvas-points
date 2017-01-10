@@ -1,6 +1,6 @@
 {
   "name": "cycle-canvas-points",
-  "version": "0.1.0-pre.1",
+  "version": "0.1.0",
   "description": "A Cycle.js driver for writing imageData values to canvas elements",
   "keywords": [
     "canvas",
